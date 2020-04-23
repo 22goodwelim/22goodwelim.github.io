@@ -1,0 +1,630 @@
+body {
+	background-color: #FCFBF9;
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px;
+}
+
+
+hr {
+	background-color: #8BBAD6;
+	height: 2px;
+	border: none;
+	padding: 0px;
+}
+
+nav {
+	text-align: center;
+	height: 29px;
+	position: sticky;
+	overflow: hidden;
+	margin: 20px 0 0;
+	padding: 10px 0;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0 2px;
+	padding: 0;
+	display: flex;
+	justify-content: space-around;
+	text-decoration: none;
+}
+
+nav a {
+	text-decoration: none;
+}
+
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: #769FB6;
+}
+
+a:active {
+	color: #769FB6;
+}
+
+footer {
+	display: block;
+	text-align: center;
+	height: 40px;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	
+	text-align: center;
+}
+
+h4 {
+	padding-left: 15px;
+}
+
+h5 {
+	text-decoration: underline;
+}
+
+p {
+	padding: 0px 10px 0px 30px;
+	font-size: 18px;
+}
+
+.wrapper {
+	width: 992px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.family {
+	width: 50%;
+	height: 50%;
+    margin-top: 0px;
+  	
+}
+
+.beach {
+	width: 23%;
+	height: 23%;
+	padding: 0px 40px 10px 50px;
+	float: right;
+	margin-top: -245px;
+	margin-right: 50px;
+}
+
+.logo {
+	width: 45%;
+	height: 45%;
+	margin-top: 80px;
+	margin-bottom: 65px;
+}
+
+.logoboat {
+	text-align: center;
+	width: 70%;
+	height: 70%;
+	margin-left: 170px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.mission {
+	height: 100px;
+	width: 600px;
+	padding-bottom: 130px;
+}
+
+.world {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#butterfly {
+	width: 5%;
+	height: 5%;
+	text-align: center;
+}
+
+.homelink {
+	display: flex;
+	justify-content: space-between;
+}
+
+.header {
+	border-bottom: 2px solid #8BBAD6;
+	border-top: 2px solid #8BBAD6;
+	display: flex;
+	justify-content: space-between;
+}
+
+.map {
+	text-align: center;
+	height: 300px;
+	width: 600px;
+	background-color: #769FB6;
+	margin: 0 auto;
+	width: 600px;
+}
+
+.insta {
+	height: 30px;
+	width: 30px;
+
+}
+
+.facebook {
+	height: 30px;
+	width: 30px;
+}
+
+.youtube {
+	height: 30px;
+	width: 30px;
+}
+
+.where {
+	text-align: center;
+
+}
+.turtles {
+	border-bottom: 2px solid #769FB6;
+	border-top: 2px solid #769FB6;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.melissa {
+	height: 20%;
+	width: 20%;
+	padding-bottom: 130px;
+	float: right;
+	margin-top: -175px;
+	margin-right: 110px;
+}
+
+.joe {
+	height: 20%;
+	width: 20%;
+	float: right;
+	margin-top: -220px;
+	margin-right: 100px;
+}
+
+.eliza {
+	height: 20%;
+	width: 20%;
+	float: right;
+	margin-top: -225px;
+	margin-right: 110px;
+}
+
+.adelaide {
+	height: 27%;
+	width: 27%;
+	padding-bottom: 130px;
+	float: right;
+	margin-top: -295px;
+	margin-right: 140px;
+	transform: rotate(90deg);
+}
+
+.catameran {
+	height: 50%;
+	width: 50%;
+	margin-left: 50px;
+	margin-top: 30px;
+	margin-right: 50px;
+}
+
+.slider {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.boatdescript {
+	padding-top: 25px;
+	padding-right: 50px;
+}
+
+.pollution {
+	float: right;
+	height: 40%;
+	width: 40%;
+	margin-top: -150px;
+	margin-right: -50px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.left {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.plastic {
+	height: 40%;
+	width: 40%;
+	float: right;
+	margin-top: -200px;
+	margin-right: -50px;
+}
+
+.coral {
+	height: 40%;
+	width: 40%;
+	float: right;
+	margin-top: -200px;
+	margin-right: -50px;
+}
+
+.overfishing {
+	height: 40%;
+	width: 40%;
+	float: right;
+	margin-top: -200px;
+	margin-right: -50px;
+}
+
+.blog {
+	height: 1000px;
+	width: 700px;
+	background-color: white;
+	margin-left: 230px;
+	border: solid 4px #8BBAD6;
+}
+
+.bloglink {
+	font-size: 25px;
+	text-decoration: none;
+	padding-left: 10px;
+}
+
+.videolink {
+	font-size: 25px;
+	text-decoration: none;
+	padding-left: 10px;
+}
+
+.video {
+	height: 400px;
+	width: 700px;
+	background-color: white;
+	margin-left: 215px;
+	border: solid 4px #8BBAD6;
+	text-align: center;
+}
+
+.links {
+	float: left;
+	margin-top: 170px;
+	height: 200px;
+	width: 170px;
+	background-color: white;
+	text-align: left;
+	border: solid 5px #8BBAD6;
+}
+
+.pin1 {
+	height: 2%;
+	width: 2%;
+	margin-top: -100px;
+}
+
+.pin2 {
+	height: 2%;
+	width: 2%;
+	margin-right: 50px;
+}
+
+.search {
+	float: right;
+}
+
+.last {
+	margin-left: 150px;
+}
+
+.about {
+	font-size: 17px;
+}
+
+.ourmission {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.sublinks {
+	text-decoration: none;
+}
+
+.blog1 {
+	text-align: left;
+}
+
+.heading{
+	text-align: center;
+}
+
+.lagoon1 {
+	height: 45%;
+	width: 45%;
+	margin-left: 50px;
+}
+
+.lagoon2 {
+	height: 49%;
+	width: 49%;
+}
+
+
+
+@media only screen and (max-width: 1024px) {
+
+	.wrapper {
+		width: 768px;
+	}
+
+	.beach {
+		width: 35%;
+		height: 35%;
+		float: none;
+		margin-top: 120px;
+		margin-left: 200px;
+		padding-bottom: 0px;
+	}
+
+	.mission {
+		text-align: left;
+		margin-left: 50px;
+	}
+
+	.melissa{
+		height: 30%;
+		width: 30%;
+		margin-top: 250px;
+		margin-right: 250px;
+		padding-bottom: 0px;
+	}
+
+	.dad {
+		margin-top: 350px;
+	}
+
+	.joe {
+		height: 27%;
+		width: 27%;
+		margin-top: 190px;
+		margin-right: 280px;
+	}
+
+	.liza {
+		margin-top: 350px;
+	}
+
+	.eliza {
+		height: 27%;
+		width: 27%;
+		margin-top: 100px;
+		margin-right: 275px;
+	}
+
+	.addie {
+		margin-top: 300px;
+	}
+
+	.adelaide {
+		height: 35%;
+		width: 35%;
+		margin-top: 10px;
+		margin-right: 300px;
+	}
+
+	.lagoon1 {
+		height: 40%;
+		width: 40%;
+	}
+
+	.lagoon2 {
+		height: 44%;
+		width: 44%;
+	}
+
+	.pollution {
+		margin-top: 250px;
+		margin-right: 210px;
+		height: 45%;
+		width: 45%;
+	}
+
+	.apple {
+		padding-top: 350px;
+	}
+
+	.banana {
+		margin-top: 350px;
+	}
+
+	.plastic {
+		height: 50%;
+		width: 50%;
+		margin-top: 150px;
+		margin-right: 190px;
+	}
+
+	.orange {
+		margin-top: 350px;
+	}
+
+	.coral {
+		height: 50%;
+		width: 50%;
+		margin-top: 150px;
+		margin-right: 190px;
+	}
+
+	.overfishing {
+		height: 50%;
+		width: 50%;
+		margin-top: 150px;
+		margin-right: 190px;
+	}
+
+	.blog {
+		height: 1300px;
+		width: 500px;
+	}
+
+}
+
+@media only all and (max-width: 768px) {
+
+	nav {
+		font-size: 15px;
+		height: 15px;
+	}
+
+	p {
+		font-size: 15px;
+	}
+
+	h1 {
+		font-size: 23px;
+	}
+
+	.about {
+		font-size: 15px;
+		padding-right: 160px;
+
+	}
+
+	.wrapper {
+		width: 100%;
+	}
+
+	.beach {
+		margin-top: 200px;
+	}
+
+	.melissa {
+		margin-top: 300px;
+		margin-right: 150px;
+		height: 30%;
+		width: 30%;
+		text-align: center;
+		padding-bottom: 0px;
+	}
+
+	.dad {
+		margin-top: 400px;
+		margin-left: 70px;
+	}
+
+	.flexmission {
+		text-align: center;
+	}
+
+	.liza {
+		margin-top: 400px;
+	}
+
+	.eliza {
+		margin-top: 100px;
+		margin-right: 150px;
+		height: 30%;
+		width: 30%;
+	}
+
+	.joe {
+		margin-top: 230px;
+		margin-right: 150px;
+		height: 30%;
+		width: 30%;
+	}
+
+	.addie {
+		margin-top: 300px;
+	}
+
+	.adelaide {
+		margin-top: 50px;
+		margin-right: 200px;
+		height: 40%;
+		width: 40%;
+	}
+
+	.boatdescript {
+		margin-right: 100px;
+	}
+
+	.pollution {
+		margin-top: 150px;
+		margin-right: 230px;
+		height: 40%;
+		width: 40%;
+	}
+
+	.apple {
+		padding-top: 200px;
+	}
+
+	.banana {
+		margin-top: 200px;
+	}
+
+	.plastic {
+		height: 43%;
+		width: 43%;
+		margin-top: 50px;
+		margin-right: 215px;
+	}
+
+	.orange {
+		margin-top: 200px;
+	}
+
+	.coral {
+		height: 43%;
+		width: 43%;
+		margin-top: 50px;
+		margin-right: 210px;
+	}
+
+	.overfishing {
+		height: 43%;
+		width: 43%;
+		margin-top: 80px;
+		margin-right: 210px;
+	}
+
+	.links {
+		margin-top: 50px;
+		margin-top: 170px;
+		height: 250px;
+		width: 150px;
+		background-color: white;
+		text-align: left;
+		border: solid 5px #8BBAD6;
+	}
+
+}
+
+
+
+
+
